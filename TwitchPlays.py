@@ -6,7 +6,7 @@ import ctypes
 import random
 import string
 import os
-import games
+from games import *
 
 countdown = 10  #The number of seconds before the code starts running
 while countdown > 0:
@@ -32,5 +32,6 @@ while True:
                 username = message['username'].lower()
                 #<----GAME HERE----->
                 #fallguys(msg)
+                marioParty(msg)
         except:
             print('Encountered an exception while reading chat.')
