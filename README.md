@@ -1,2 +1,2 @@
 # Twitch-Plays
-Um simples script que fornece a possibilidade das pessoas do chat da twitch executar ações no seu computador.
+Um simples script que fornece a oportunidade do chat da twitch controlar o seu computador.
